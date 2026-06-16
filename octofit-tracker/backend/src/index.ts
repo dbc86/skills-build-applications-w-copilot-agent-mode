@@ -1,5 +1,5 @@
 import express from 'express'
-import { connectDatabase } from './database.js'
+import { connectDatabase } from '/config/database.js'
 import { Activity, LeaderboardEntry, Team, User, Workout } from './models.js'
 
 const app = express()
