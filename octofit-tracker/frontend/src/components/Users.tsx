@@ -1,3 +1,5 @@
+// /api/users/
+
 import { useEffect, useState } from 'react'
 import { fetchResource, normalizeResponseArray } from './api'
 
