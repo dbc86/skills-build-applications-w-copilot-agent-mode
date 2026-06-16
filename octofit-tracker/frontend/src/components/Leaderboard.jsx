@@ -1,4 +1,5 @@
 // /api/leaderboard/
+// https://dummy-8000.app.github.dev/api/leaderboard
 
 import { useEffect, useState } from 'react'
 import { fetchResource, normalizeResponseArray } from './api'

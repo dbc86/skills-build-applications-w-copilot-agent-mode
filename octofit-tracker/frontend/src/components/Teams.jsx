@@ -1,4 +1,5 @@
 // /api/teams/
+// https://dummy-8000.app.github.dev/api/teams
 
 import { useEffect, useState } from 'react'
 import { fetchResource, normalizeResponseArray } from './api'
