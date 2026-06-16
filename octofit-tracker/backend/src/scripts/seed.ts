@@ -1,4 +1,4 @@
-import { connectDatabase } from '../db.js'
+import { connectDatabase } from '/config/database.js'
 import { Activity, LeaderboardEntry, Team, User, Workout } from '../models.js'
 
 async function seed() {
